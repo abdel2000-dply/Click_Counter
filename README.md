@@ -2,6 +2,8 @@
 
 This repository contains an Arduino code for a simple click counter using the ESP8266 microcontroller. The code includes a web server that displays the current click count and updates it in real-time.
 
+![ESP8266](ESP8266-NodeMCU-Board.png)
+
 ## Hardware Requirements
 
 - ESP8266 microcontroller
